@@ -6,4 +6,6 @@ Full spectrum of the Data Science Machine Learning & Artificial Intelligence
 
 | No.  |       Subject                   |         files
 |------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-|  1     |       Data Science              |         ![case2](https://github.com/Nyotabenson/Datumlytics_Curriculum/assets/112963428/3033f42a-ee24-4084-b5f8-341aaec8268c)
+|  1   |       Data Science              |         [Natural Language Processing](https://github.com/Nyotabenson/March24_Resources/blob/main/30_Natural%20Language%20Processing/30%20%20Natural%20Language%20Processing%20(Transformers%20and%20the%20Hugging%20Face).ipynb)
+|------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+|   2  |         Youtube channels       |         [youtube links](https://www.youtube.com/)
